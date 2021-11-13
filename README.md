@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij" width="30" height="30"/> </a> 
 
 <div>
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkan-ozdemir&bg_color=151515&title_color=e63946&text_color=9f9f9f"/>
-  <img align="top"  alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=serkan-ozdemir&show_icons=true&title_color=e63946&count_private=true&icon_color=e76f51&text_color=9f9f9f&bg_color=151515"/>
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkan-ozdemir&bg_color=151515&title_color=e63946&text_color=9f9f9f?"/>
+  <img align="top"  alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=serkan-ozdemir&show_icons=true&title_color=e63946&count_private=true&icon_color=e76f51&text_color=9f9f9f&bg_color=151515?"/>
 </div>
